@@ -1,0 +1,289 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #3c4f37;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img {
+    align-content: center;
+    text-align: center;
+  }
+  .zoro {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+  }
+
+  p {
+    color: white;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  .details {
+    margin-left: 15px;
+  }
+
+  .name {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  .story {
+    font-size: 12px;
+    color: white;
+  }
+
+  .button {
+    background-color: #875e5e;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 2px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  body {
+    background-color: #3c4f37;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img {
+    align-content: center;
+    text-align: center;
+  }
+  .zoro {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+  }
+
+  p {
+    color: white;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  .details {
+    margin-left: 15px;
+  }
+
+  .name {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  .story {
+    font-size: 12px;
+    color: white;
+  }
+
+  .button {
+    background-color: #875e5e;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 2px;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: #3c4f37;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img {
+    align-content: center;
+    text-align: center;
+  }
+  .zoro {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+  }
+
+  p {
+    color: white;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  .details {
+    margin-left: 15px;
+  }
+
+  .name {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  .story {
+    font-size: 12px;
+    color: white;
+  }
+
+  .button {
+    background-color: #875e5e;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 2px;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  body {
+    background-color: #3c4f37;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img {
+    align-content: center;
+    text-align: center;
+  }
+  .zoro {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+  }
+
+  p {
+    color: white;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  .details {
+    margin-left: 15px;
+  }
+
+  .name {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  .story {
+    font-size: 12px;
+    color: white;
+  }
+
+  .button {
+    background-color: #875e5e;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 2px;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  body {
+    background-color: #3c4f37;
+    font-family: sans-serif;
+  }
+
+  .container {
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img {
+    align-content: center;
+    text-align: center;
+  }
+  .zoro {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+  }
+
+  p {
+    color: white;
+    margin-top: 5px;
+    font-size: 12px;
+  }
+
+  .details {
+    margin-left: 15px;
+  }
+
+  .name {
+    font-size: 30px;
+    color: white;
+    margin-bottom: 20px;
+  }
+
+  .story {
+    font-size: 12px;
+    color: white;
+  }
+
+  .button {
+    background-color: #875e5e;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    font-size: 12px;
+    padding: 8px 20px;
+    border-radius: 2px;
+  }
+}
